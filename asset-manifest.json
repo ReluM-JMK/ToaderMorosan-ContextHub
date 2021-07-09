@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/ToaderMorosan-ContextHub.git/static/js/main.0828ba94.chunk.js",
-    "main.js.map": "/ToaderMorosan-ContextHub.git/static/js/main.0828ba94.chunk.js.map",
-    "runtime-main.js": "/ToaderMorosan-ContextHub.git/static/js/runtime-main.7ccb700b.js",
-    "runtime-main.js.map": "/ToaderMorosan-ContextHub.git/static/js/runtime-main.7ccb700b.js.map",
-    "static/css/2.4be38407.chunk.css": "/ToaderMorosan-ContextHub.git/static/css/2.4be38407.chunk.css",
-    "static/js/2.c0fb25fa.chunk.js": "/ToaderMorosan-ContextHub.git/static/js/2.c0fb25fa.chunk.js",
-    "static/js/2.c0fb25fa.chunk.js.map": "/ToaderMorosan-ContextHub.git/static/js/2.c0fb25fa.chunk.js.map",
-    "static/js/3.a9a63adc.chunk.js": "/ToaderMorosan-ContextHub.git/static/js/3.a9a63adc.chunk.js",
-    "static/js/3.a9a63adc.chunk.js.map": "/ToaderMorosan-ContextHub.git/static/js/3.a9a63adc.chunk.js.map",
-    "index.html": "/ToaderMorosan-ContextHub.git/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/ToaderMorosan-ContextHub.git/static/css/2.4be38407.chunk.css.map",
-    "static/js/2.c0fb25fa.chunk.js.LICENSE.txt": "/ToaderMorosan-ContextHub.git/static/js/2.c0fb25fa.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.0828ba94.chunk.js",
+    "main.js.map": "/static/js/main.0828ba94.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31dad81c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31dad81c.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.c0fb25fa.chunk.js": "/static/js/2.c0fb25fa.chunk.js",
+    "static/js/2.c0fb25fa.chunk.js.map": "/static/js/2.c0fb25fa.chunk.js.map",
+    "static/js/3.a9a63adc.chunk.js": "/static/js/3.a9a63adc.chunk.js",
+    "static/js/3.a9a63adc.chunk.js.map": "/static/js/3.a9a63adc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/js/2.c0fb25fa.chunk.js.LICENSE.txt": "/static/js/2.c0fb25fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ccb700b.js",
+    "static/js/runtime-main.31dad81c.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.c0fb25fa.chunk.js",
     "static/js/main.0828ba94.chunk.js"
